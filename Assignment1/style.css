@@ -1,0 +1,15 @@
+.container{
+    margin: 50px auto;
+    text-align: center;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: rgb(231, 115, 115);
+
+    background-color: black;
+}
+.timer{
+   margin: 5px;
+}
